@@ -1,24 +1,47 @@
 body{
+    
     background: linear-gradient(#8C464C, #8C817D, #A69C98, #734E46);
-    align-items: flex-start;
-    display: flex;
-    justify-content: flex-start;
+    
 
 }
 .Textus{
     
 
     color: aliceblue;
-    position: relative;
+    
     font-size: larger;
+    
     font-style: normal;
     
     
 }
 
-.Imagem{
+h1{
 
-    height: auto; 
-    width: auto;
+  font-weight: 400;
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+  font-style: italic;
+
+
+}
+
+
+.Pesquisa{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+
+}
+
+
+.Imagem{
+    
+    height: 100%; 
+    
+    width: 100%;
+
 
 }
