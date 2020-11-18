@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(#8C464C, #8C817D, #A69C98, #734E46);
+    align-items: flex-start;
+    display: flex;
+    justify-content: flex-start;
+
+}
+.Textus{
+    
+
+    color: aliceblue;
+    position: relative;
+    font-size: larger;
+    font-style: normal;
+    
+    
+}
+
+.Imagem{
+
+    height: auto; 
+    width: auto;
+
+}
